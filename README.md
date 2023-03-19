@@ -10,7 +10,7 @@ Behind-the-scenes, this extension uses [PayPal's Merchant Ruby SDK](https://gith
 
 1. Add this extension to your Gemfile with this line:
         
-        gem 'spree_paypal_express', github: 'spree-contrib/better_spree_paypal_express'
+        gem 'spree_paypal_express', github: 'phunghv/better_spree_paypal_express'
 
 2. Install the gem using Bundler:
 
